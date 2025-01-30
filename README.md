@@ -2,7 +2,7 @@
 
 A simple app for users to learn and discover new Pokemon!
 
-## Demo
+## Demonstration
 
 <div style="display: flex; gap: 20px;">
   <div>
