@@ -2,6 +2,10 @@
 
 A simple app for users to learn and discover new Pokemon!
 
+## Demonstration
+
+![Local GIF](./public/icons8-pokedex-32.png)
+
 ## Installation
 
 1. Clone the repository:
