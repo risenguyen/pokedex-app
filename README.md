@@ -22,12 +22,6 @@ A fully responsive React application that allows you to browse, search, and view
 - Tailwind (for styling)
 - [GraphQL Pokemon](https://graphql-pokemon.js.org/) (for Pokémon data)
 
-## 📋 Prerequisites
-
-Before running this application, make sure you have the following installed:
-- Node.js (v14.0.0 or higher)
-- npm (v6.0.0 or higher)
-
 ## 🔧 Installation
 
 1. Clone this repository
