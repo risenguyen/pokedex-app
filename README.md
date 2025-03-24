@@ -33,7 +33,7 @@ Before running this application, make sure you have the following installed:
 1. Clone this repository
 ```bash
 git clone https://github.com/risenguyen/pokedex-app
-cd pokedex
+cd pokedex-app
 ```
 
 2. Install dependencies
