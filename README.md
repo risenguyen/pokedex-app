@@ -71,5 +71,3 @@ This application uses the [GraphQL Pokemon](https://graphql-pokemon.js.org/) to 
 The application is designed to be fully responsive:
 - **Desktop**: Optimized grid layout showing multiple Pokémon cards per row.
 - **Mobile**: Single-column layout with touch-friendly controls.
-
-Made with ❤️ by Rise Nguyen
