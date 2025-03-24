@@ -1,6 +1,6 @@
 # Pokedex App
 
-A simple app for users to learn and discover new Pokemon!
+A simple app to browse and discover new Pokemon!
 
 ## Demonstration
 
