@@ -4,7 +4,7 @@ A fully responsive React application that allows you to browse, search, and view
 
 ![Desktop Demo](./demo/mobile.gif) ![Mobile Demo](./demo/desktop.gif)
 
-## 🌟 Features
+## Features
 
 - **Complete Pokémon Catalog**: Browse through all Pokémon in a paginated list.
 - **Search Functionality**: Quickly find any Pokémon by name.
@@ -15,7 +15,7 @@ A fully responsive React application that allows you to browse, search, and view
   - Physical characteristics
 - **Responsive Design**: Seamlessly works on both desktop and mobile devices.
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - React
 - Vite
@@ -42,7 +42,7 @@ npm run dev
 
 4. Open your browser and navigate to `http://localhost:5173`
 
-## 🎮 Usage
+## Usage
 
 ### Browsing Pokémon
 - Scroll through the paginated list to browse all Pokémon.
@@ -62,11 +62,11 @@ npm run dev
   - Base statistics (HP, Attack, Defense, etc.)
   - Evolution chain
 
-## 🔄 API Integration
+## API Integration
 
 This application uses the [GraphQL Pokemon](https://graphql-pokemon.js.org/) to fetch Pokémon data. The API calls are handled in the services directory, providing a clean separation of concerns.
 
-## 📱 Responsive Design
+## Responsive Design
 
 The application is designed to be fully responsive:
 - **Desktop**: Optimized grid layout showing multiple Pokémon cards per row.
